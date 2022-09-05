@@ -3,15 +3,20 @@ Rockery and cave point clouds data of manuscript "Cave feature extraction and cl
 
 # Folder
 ### QiuxiaRockery : data of QiuxiaRockery         
-&ensp;&ensp;&ensp;&ensp;**-QiuxiaRockery.zip** : point clouds of whole rockery     
-&ensp;&ensp;&ensp;&ensp;**-CaveData_10_10** : experiment and result data with  10 mm slicing threshold  and 10 mm grouping buffer threshold         
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;-Slice : sliced data            
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;-Group : grouped data                 
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;-Extract : extracted and merged caves from all chips                  
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;-OverallGroup : splited caves               
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;-ModelBoundary : boudary point clouds for every cave                
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;-Classify : classifed result                  
+**----QiuxiaRockery.zip** : point clouds of whole rockery     
+**----CaveData_10_10** : experiment and result data with  10 mm slicing threshold  and 10 mm grouping buffer threshold         
+-----------Slice : sliced data            
+-----------Group : grouped data                 
+-----------Extract : extracted and merged caves from all chips                  
+-----------OverallGroup : splited caves               
+-----------ModelBoundary : boudary point clouds for every cave                
+-----------Classify : classifed result      
+-----------Classify : classifed result     
+**-----------------Wo** : point clods of Wo           
+**-----------------Xiu** : point clods of Xiu     
+**-----------------Dong** : point clods of Dong           
+**-----------------Huan** : point clods of Huan           
 
 
 ### TongjiRockery : data of TongjiRockery
-&ensp;&ensp;&ensp;&ensp;**-Same as QiuxiaRockery**
+**----Same as QiuxiaRockery**

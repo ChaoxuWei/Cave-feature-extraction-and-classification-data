@@ -1,5 +1,5 @@
 # Introduction
-Point clouds used "Cave feature extraction and classification from rockery point clouds acquired with handheld laser scanners"
+Point clouds used in the manuscript "Cave feature extraction and classification from rockery point clouds acquired with handheld laser scanners"
 
 # Folder
 ### QiuxiaRockery : data of QiuxiaRockery         

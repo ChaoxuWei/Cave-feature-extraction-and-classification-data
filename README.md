@@ -9,8 +9,7 @@ Point clouds used in the manuscript "Cave feature extraction and classification 
 -----------Group : grouped data                 
 -----------Extract : extracted and merged caves from all chips                  
 -----------OverallGroup : splited caves               
------------ModelBoundary : boudary point clouds for every cave                
------------Classify : classifed result      
+-----------ModelBoundary : boudary point clouds for every cave                  
 -----------Classify : classifed result     
 **-----------------Wo** : point clods of Wo           
 **-----------------Xiu** : point clods of Xiu     

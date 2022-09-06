@@ -1,7 +1,7 @@
 # Introduction
 Point clouds used in the manuscript "Cave feature extraction and classification from rockery point clouds acquired with handheld laser scanners"
 
-# Folder
+# Main folders' data
 ### QiuxiaRockery : data of QiuxiaRockery         
 **----QiuxiaRockery.zip** : preprocessed point clouds of QiuxiaRockery     
 **----CaveData_10_10** : experiment and result data with  10 mm slicing threshold  and 10 mm grouping buffer threshold         
